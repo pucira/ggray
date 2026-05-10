@@ -1,5 +1,5 @@
 {
-  "name": "ghtun",
+  "name": "ghtun-pishi",
   "build": {
     "dockerfile": "./Dockerfile",
     "context": "."
